@@ -5,4 +5,4 @@ estoque, mesas, reservas, pagamentos, relatórios analíticos, segurança de dad
 (ponto de vendas). Uma interface amigável, compatibilidade e suporte contínuo são fundamentais para garantir
 facilidade de uso e operação eficaz, capacitando os usuários a oferecerem um serviço ao cliente excepcional.
 
-https://youtu.be/Zupl0A5RcMc?si=hx3g-syjwz1mieNu
+https://youtu.be/444EVSPEvBQ?si=JZcMcAruwR0jwhkE
